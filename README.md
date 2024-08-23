@@ -27,8 +27,6 @@ In this tutorial, I observe various network traffic to and from Azure Virtual Ma
 <p> - Create a DNS A-record on DC-1 for “mainframe” and have it point to DC-1’s Private IP address</p>
 <p> - Flush the DNS cache (ipconfig /flushdns)</p>
 
-<br/>
-
 <h3>Network File Shares and Permissions</h3>
 <h4> - Set permissions for the “Domain Users” group:</h4>
    <p> - Folder: “read-access”, Group: “Domain Users”, Permission: “Read”</p>
