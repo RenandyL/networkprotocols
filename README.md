@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
+<h1>Inspecting Traffic Between Azure Virtual Machines and Network Security Groups (NSGs)</h1>
 In this tutorial, build intuition for DNS, and experiment with Network Security Groups. <br />
 
 
@@ -12,7 +12,6 @@ In this tutorial, build intuition for DNS, and experiment with Network Security 
 - Remote Desktop
 - Various Command-Line Tools
 - Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
-- Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
 
